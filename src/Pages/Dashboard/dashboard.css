@@ -1,0 +1,25 @@
+main{
+  text-align: center;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  margin: 0 auto;
+  display: grid;
+
+}
+
+article{
+  margin-top: 400px;
+  width: 705px;
+  height: 205px;
+  padding: 10px;
+  border-radius: 10px;
+  background-color: #fff;
+  box-shadow: 0 0 6px rgb(5 20 41 / 6%), 0 4px 6px rgb(5 20 41 / 8%);
+  margin: 0 auto;
+  margin-bottom: 15px;
+
+}
+.titulo{
+  color: #0B71D9;
+}
