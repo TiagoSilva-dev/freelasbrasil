@@ -5,7 +5,15 @@ main{
   align-items: center;
   margin: 0 auto;
   display: grid;
-
+}
+a{
+  text-decoration: none;
+}
+.descricao span{
+color: #737373;
+}
+.btn a {
+  color: #FFF;
 }
 
 article{
@@ -18,8 +26,10 @@ article{
   box-shadow: 0 0 6px rgb(5 20 41 / 6%), 0 4px 6px rgb(5 20 41 / 8%);
   margin: 0 auto;
   margin-bottom: 15px;
+  text-align: left;
+  padding: 10px;
 
 }
 .titulo{
-  color: #0B71D9;
+  font-size: 20px;
 }
